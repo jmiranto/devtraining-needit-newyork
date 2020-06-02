@@ -164,13 +164,13 @@
         <source>c7ae7e73db301010dfb59fd2ca96193e</source>
         <source_table>sys_upgrade_history</source_table>
         <state>previous</state>
-        <sys_created_by/>
+        <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-22 19:26:58</sys_created_on>
         <sys_id>7113fdbadb011010dfb59fd2ca96193f</sys_id>
-        <sys_mod_count/>
+        <sys_mod_count>0</sys_mod_count>
         <sys_recorded_at>1723dda53d00000000</sys_recorded_at>
-        <sys_updated_by/>
-        <sys_updated_on/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-31 22:56:02</sys_updated_on>
         <type>Choice list</type>
         <update_guid>3113fdba080110104a5097a7e50d1a3f</update_guid>
         <update_guid_history>3113fdba080110104a5097a7e50d1a3f:2037410899</update_guid_history>
